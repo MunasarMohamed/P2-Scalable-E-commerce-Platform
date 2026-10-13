@@ -29,7 +29,7 @@ The project consists of a React frontend, an Express backend and a MySQL databas
 - Input on the backend is validated with express-validator
 
 ## Screenshots
-
+*CLOTHING IMAGES HAS BEEN LOST* 
 ### Front page
 ![Front page](docs/screenshots/front-page.png)
 
